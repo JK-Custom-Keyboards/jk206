@@ -120,35 +120,35 @@ Esta guía de montaje estará enfocada principalmente para el macropad, pero el 
 
 Para realizar el montaje del teclado o macropado lo primero será tomar el plate inferior y colocarle pies antideslizantes bajo preferencia del usuario.
 
-![guide_15](/assets/images/guide_16.jpg)
+![guide_16](/assets/images/guide_16.jpg)
 
 
 Una vez hecho esto seguiría atornillar a éste los separadores
 
-![guide_15](/assets/images/guide_17.jpg)
+![guide_17](/assets/images/guide_17.jpg)
 
-![guide_15](/assets/images/guide_18.jpg)
+![guide_18](/assets/images/guide_18.jpg)
 
 
 Nota: Los plates superior e inferior de la versión de teclado completo del JK206 tienen huecos para 12 separadores, aunque yo recomiendo usar solo 4 (en los espacios siguientes a los mas externos),pero queda la opción de colocar mas separadores si se desea una sensación mas rígida al escribir
 
 Ya teniendo nuestro plate inferior ahora vamos a sujetar nuestra PCB al plate superior con los switches, para esto basta con colocar un par de switches en el plate para luego colocarlos juntos en la PCB
 
-![guide_15](/assets/images/guide_19.jpg)
+![guide_19](/assets/images/guide_19.jpg)
 
-![guide_15](/assets/images/guide_20.jpg)
+![guide_20](/assets/images/guide_20.jpg)
 
 Despues de esto quedaría colocar los switches faltantes
 
-![guide_15](/assets/images/guide_21.jpg)
+![guide_21](/assets/images/guide_21.jpg)
 
 Ya teniendo unidos plate, pcb y switches podemos atornillar el plate superior a los separadores que habíamos colocado anteriormente en el plate inferior
 
-![guide_15](/assets/images/guide_22.jpg)
+![guide_22](/assets/images/guide_22.jpg)
 
 Y con esto ya tenemos nuestro teclado o macropad listo, solo faltaría colocar keycaps a nuestro gusto y disfrutar.
 
-![guide_15](/assets/images/guide_23.jpg)
+![guide_23](/assets/images/guide_23.jpg)
 
 <h4 align="Left"> Mods recomendados: </h4>
 En general el tape mod y el pe foam funciona bien con el montaje, fuera de eso no hay mucho mas que se pueda hacer.
