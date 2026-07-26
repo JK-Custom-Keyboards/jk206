@@ -1,5 +1,5 @@
 
-![Logo of the project](assets/images/logo_jk206_wob.png)
+![Logo of the project](/assets/images/logo_jk206_wob.png)
 
 
 <h2 align="Left"> English </h2>
