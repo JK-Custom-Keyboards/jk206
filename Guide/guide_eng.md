@@ -145,6 +145,12 @@ And with that, your keyboard or macropad is ready. All that remains is to instal
 
 In general, both the tape mod and PE foam work well with this assembly. Beyond that, there is not much else that can be modified.
 
-<h2 align="Left"> 5. Firmware Installation </h2>
+<h2 align="Left"> 6. Firmware Installation </h2>
+
+If you want the default configuration for the keyboard or macropad, first download the [corresponding .uf2 file](/assets/uf2%20files/). 
+
+Once you’ve downloaded the .uf2 file, connect your keyboard or macropad to your PC while keeping pressed the button located on the top of the Raspberry Pi Pico. This will make a new storage drive appear in your file manager with a name similar to RPI-RP.
+
+Open the directory and copy/paste the .uf2 file you downloaded there. At that moment, the Raspberry Pi Pico should reboot, and the keyboard or macropad will now be working.
 
 And with that, your JK206 should now be fully functional :D
