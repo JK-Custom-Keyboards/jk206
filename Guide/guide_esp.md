@@ -113,7 +113,7 @@ Para este montaje relativamente sencillo vas a necesitar de estos materiales:
 | --------------------------------- | ------------------------------------------- | ------------------------------------------- |
 | Separadores de latón M2 8mm      | 4                                         | 4-12                                           |
 | Tornillos M2 cabeza plana 5mm     | 8                                        | 8-24                                           |
-| Plates acrílicos (1.5mm de grosor)| [1 par](/Cases/Sandwich-Case/Macropad/Plates%20macropad.pdf))              | [1 par](/Cases/Sandwich-Case/Keyboard/Plates%20keyboard.pdf)        |
+| Plates acrílicos (preferiblemente 1.5mm de grosor, pero 2 mm también sirve)| [1 par](/Cases/Sandwich-Case/Macropad)              | [1 par](/Cases/Sandwich-Case/Keyboard)        |
 |Pies antideslizantes | a gusto | a gusto |
 
 Esta guía de montaje estará enfocada principalmente para el macropad, pero el montaje del JK206 en modo teclado es muy similar y la guía debería servir igualmente.
@@ -160,6 +160,6 @@ Si quieres la configuración default del teclado o macropad, primero debes desca
 
 Ya con el archivo descargado, debes conectar el teclado o macropad a tu PC mientras mantienes presionado el botón que se encuentra en la parte superior de la Raspberry Pi Pico, de esta forma verás que en tu gestor de archivos hay una nueva unidad de almacenamiento con un nombre similar a RPI-RP. 
 
-Abre el directorio y pega ahí el archivo .uf2 que hayas descargado. La Raspberry Pi Pico debería en ese momento reiniciarse y el teclado o macropad ahora estaría funcionando.
+Abre la unidad y pega ahí el archivo .uf2 que hayas descargado. La Raspberry Pi Pico debería en ese momento reiniciarse y el teclado o macropad ahora estaría funcionando.
 
 Y con ésto ya deberías tener completamente funcional tu JK206 :D

@@ -11,7 +11,7 @@ This is achieved through a modular design PCB that can be used by itself to moun
 
 The project firmware is in QMK and the source code can be found here <a href="https://github.com/JhonatanFerrer/qmk_firmware/tree/master/keyboards/jk206">here</a>. The development board used for the project is the Raspberry Pi Pico, but should work any RP2040 board with the same pinout.
 
-If you want to build your own JK206, go to the guide, where there will be the step-by-step to assemble and configure it
+If you want to build your own JK206, go to the [guide](/Guide/guide_eng.md), where there will be the step-by-step to assemble and configure it
 
 
 <strong>Note:</strong> If you just want to assemble your own JK206 and don't plan to modify anything of the PCB design, you don't need to touch the KiCAD files, directly use the Gerbers as the guide says
@@ -25,7 +25,7 @@ Esto se consigue mediante una PCB de diseño modular que se puede usar por si mi
 El firmware del proyecto está en QMK y el código fuente puede ser encontrado <a href="https://github.com/JhonatanFerrer/qmk_firmware/tree/master/keyboards/jk206">aquí</a>. La placa de desarrollo usada en el proyecto es la Raspberry Pi Pico, pero debería funcionar cualquier placa RP2040 con el mismo pinout.
 
 
-Si quieres armar tu propio JK206, entra en la guía, donde estará el paso a paso para ensamblarlo y configurarlo 
+Si quieres armar tu propio JK206, entra en la [guía](/Guide/guide_eng.md), donde estará el paso a paso para ensamblarlo y configurarlo 
 
 
 <strong>Nota:</strong> Si solo quieres montar tu propio JK206 y no piensan modificar nada del diseño de la PCB , no necesitas tocar los archivos de KiCAD, usa directamente los Gerbers como dice la guía
@@ -33,4 +33,3 @@ Si quieres armar tu propio JK206, entra en la guía, donde estará el paso a pas
 <h1 align="Left"> Photos / Fotos </h1>
 
 
-These photos are from a prototype version of the project, the final version features some minor changes / Estas fotos son de una versión prototipo del proyecto, la versión final presenta algunos cambios menores

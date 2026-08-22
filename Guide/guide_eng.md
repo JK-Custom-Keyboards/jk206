@@ -106,7 +106,7 @@ For this relatively simple assembly method, you will need the following material
 | --------------------------------- | ------------------------------------------- | ------------------------------------------- |
 | M2 8mm brass standoffs            | 4                                           | 4-12                                        |
 | M2 5mm flat-head screws           | 8                                           | 8-24                                        |
-| Acrylic plates (1.5mm thick)      | [1 pair](/Cases/Sandwich-Case/Macropad/Plates%20macropad.pdf)) | [1 pair](/Cases/Sandwich-Case/Keyboard/Plates%20keyboard.pdf) |
+| Acrylic plates (preferably 1.5 mm thick, but 2 mm would also work)      | [1 pair](/Cases/Sandwich-Case/Macropad) | [1 pair](/Cases/Sandwich-Case/Keyboard) |
 | Anti-slip feet                    | User preference                             | User preference                             |
 
 This assembly guide is primarily focused on the macropad version, but the JK206 keyboard assembly is very similar and this guide should work equally well for it.
@@ -151,6 +151,6 @@ If you want the default configuration for the keyboard or macropad, first downlo
 
 Once you’ve downloaded the .uf2 file, connect your keyboard or macropad to your PC while keeping pressed the button located on the top of the Raspberry Pi Pico. This will make a new storage drive appear in your file manager with a name similar to RPI-RP.
 
-Open the directory and copy/paste the .uf2 file you downloaded there. At that moment, the Raspberry Pi Pico should reboot, and the keyboard or macropad will now be working.
+Open the drive and copy/paste the .uf2 file you downloaded there. At that moment, the Raspberry Pi Pico should reboot, and the keyboard or macropad will now be working.
 
 And with that, your JK206 should now be fully functional :D
